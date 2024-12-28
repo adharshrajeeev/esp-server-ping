@@ -6,8 +6,8 @@
 int ledPin = 12;  // LED pin
 
 // Wi-Fi credentials
-const char* ssid = "Rajeev";          // Replace with your Wi-Fi SSID
-const char* password = "udharaachu";  // Replace with your Wi-Fi password
+const char* ssid = "wifiName";          // Replace with your Wi-Fi SSID
+const char* password = "wifiPassword";  // Replace with your Wi-Fi password
 
 ESP8266WebServer server(80);  // Create an instance of the ESP8266WebServer to handle HTTP requests
 
