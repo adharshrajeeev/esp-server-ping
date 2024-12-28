@@ -75,3 +75,5 @@ Send a GET request to http://localhost:3000/off.
 
 You can test these routes using a browser or any API testing tool like Postman.
 
+connection image
+![image](https://github.com/user-attachments/assets/ed4d45ad-9ba3-47cd-b8b8-aea6bea8861b)
